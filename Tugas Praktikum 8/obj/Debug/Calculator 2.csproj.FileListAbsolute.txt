@@ -1,0 +1,11 @@
+D:\Doc\Pemrog Lanjut\Calculator 2\bin\Debug\Calculator 2.exe.config
+D:\Doc\Pemrog Lanjut\Calculator 2\bin\Debug\Calculator 2.exe
+D:\Doc\Pemrog Lanjut\Calculator 2\bin\Debug\Calculator 2.pdb
+D:\Doc\Pemrog Lanjut\Calculator 2\obj\Debug\Calculator 2.csprojAssemblyReference.cache
+D:\Doc\Pemrog Lanjut\Calculator 2\obj\Debug\Calculator_2.Form1.resources
+D:\Doc\Pemrog Lanjut\Calculator 2\obj\Debug\Calculator_2.Properties.Resources.resources
+D:\Doc\Pemrog Lanjut\Calculator 2\obj\Debug\Calculator 2.csproj.GenerateResource.cache
+D:\Doc\Pemrog Lanjut\Calculator 2\obj\Debug\Calculator 2.csproj.CoreCompileInputs.cache
+D:\Doc\Pemrog Lanjut\Calculator 2\obj\Debug\Calculator 2.exe
+D:\Doc\Pemrog Lanjut\Calculator 2\obj\Debug\Calculator 2.pdb
+D:\Doc\Pemrog Lanjut\Calculator 2\obj\Debug\Calculator_2.Form2.resources
